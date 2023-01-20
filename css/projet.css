@@ -1,0 +1,265 @@
+@import url("shared_css.css");
+
+#projet{
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#mesprojets{
+    display: flex;
+    justify-content: center;
+}
+
+#projetc{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s ease-in-out;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    -webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	 
+    
+    
+}
+
+#projetc a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+
+#projetcpp{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#00E3FE);
+    border-radius: 15px;
+    
+    
+}
+
+#projetcpp a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetjava1{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    
+    
+}
+
+#projetjava1 a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetjava1{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    
+    
+}
+
+#projetjava1 a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+
+#projetjava2{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#00E3FE);
+    border-radius: 15px;
+    
+    
+}
+
+#projetjava2 a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetvb{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    
+    
+}
+
+#projetvb a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+
+#projetweb{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#00E3FE);
+    border-radius: 15px;
+    
+    
+}
+
+#projetweb a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetreseau{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    
+    
+}
+
+#projetreseau a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetmv{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#00E3FE);
+    border-radius: 15px;
+    
+    
+}
+
+#projetmv a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#projetbd{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+    transition : .2s;
+    background: linear-gradient(10deg,#012242,#6495ED);
+    border-radius: 15px;
+    
+    
+}
+
+#projetbd a{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-family: comic sans ms;
+    text-decoration: none;
+}
+
+#presentationprojet{
+    border: 1px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 2%;
+    margin: 2% 5%;
+    color : #fff;
+     transition : .2s ease-in-out;
+    background: linear-gradient(10deg,#019,#6495ED);
+    border-radius: 15px;
+    display: flex;
+    font-family: comic sans ms;
+    text-decoration: none;
+    
+}
+
+
+
+#projet :hover{
+    
+  	-webkit-transform: scale(1.01);
+	transform: scale(1.01);
+    
+    
+}

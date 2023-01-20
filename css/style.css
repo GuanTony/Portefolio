@@ -1,0 +1,42 @@
+
+@import url("shared_css.css");
+
+#cv{
+	margin-left: 5%;
+
+}
+
+#presentation{
+	margin-left: 45%;
+}
+
+#textpresentation{
+	font-family: 'Comic Sans MS';
+	overflow: hidden; 
+	border-right: .1em solid rgb(0, 60, 255); 
+	display: flex;
+	flex-direction: row;
+	white-space: nowrap; 
+	margin-left: 20%; 
+	width: 91ch;
+	letter-spacing: .10em; 
+	animation: 
+	  typing 3.5s steps(40, end),
+	  blinkCursor 0.75s steps(40) infinite;
+  }
+  
+ 
+  @keyframes typing {
+	0% {
+		 width:
+		  0 }
+	100% {
+		 width: 91ch;
+		 }
+  }
+  
+  
+  @keyframes blinkCursor{
+	from, to { border-color: transparent }
+	50% { border-color: rgb(0, 60, 255); }
+  }
