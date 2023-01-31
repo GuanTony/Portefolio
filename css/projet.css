@@ -23,8 +23,9 @@
 .card{
     width: 45rem;
     height: 20rem;
-    margin: 1%;
+    margin: auto;
     background-color: aliceblue;
+    margin-bottom: 2%;
 }
 
 .card :hover{
@@ -34,5 +35,5 @@
 
 }
 .row{
-    margin: 1%;
+    margin: auto;
 }
