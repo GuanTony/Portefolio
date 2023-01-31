@@ -10,6 +10,10 @@
 	margin-left: 45%;
 }
 
+#telecharger{
+	margin-left: 45%;
+}
+
 #textpresentation{
 	font-family: 'Comic Sans MS';
 	overflow: hidden; 
@@ -24,6 +28,8 @@
 	  typing 3.5s steps(40, end),
 	  blinkCursor 0.75s steps(40) infinite;
   }
+
+
   
  
   @keyframes typing {
