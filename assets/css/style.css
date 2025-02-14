@@ -130,6 +130,13 @@ a:hover {
 .row{
   margin: auto;
 }
+.miage.lead {
+  text-align: center;
+  display: flex; 
+  align-items: center;
+  justify-content: center; 
+}
+
 
 @media (max-width: 1024px) {
   .bg-image {
